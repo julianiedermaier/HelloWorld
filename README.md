@@ -11,3 +11,5 @@ Run the program through the command line
 ```
 python HelloWorld.py
 ```  
+
+![Bildschirmfoto 2023-01-03 um 10 38 58](https://user-images.githubusercontent.com/70429976/210333704-d79cb01f-52ff-4abc-9cf7-2564536f7439.png)
