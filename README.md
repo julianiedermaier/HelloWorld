@@ -1,6 +1,6 @@
 # HelloWorld
 
-HelloWorld is a simple Python program which displays the message "Hello World!"
+HelloWorld is a simple Python program which displays the message "Hello, world!"
 
 ## Installation
 Download python 3 and execute the installer.
